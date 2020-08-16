@@ -6,6 +6,7 @@ public class OrtakCalisma {
 		
 		
 		System.out.println("Aysoltan dan salamlar");
+		System.out.println("Feature dan salamlar");
 
 	}
 
